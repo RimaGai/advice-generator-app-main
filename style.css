@@ -1,0 +1,26 @@
+body {
+  background-color: hsl(218, 23%, 16%);
+}
+
+button {
+  background-color: hsl(150, 100%, 66%);
+  border: none;
+  padding: 15px;
+  border-radius: 50%;
+}
+
+button img {
+  width: 20px;
+  display: block;
+  margin: auto 0;
+}
+
+.attribution {
+  font-size: 18px;
+  text-align: center;
+  color: hsl(193, 38%, 86%);
+}
+
+.attribution a {
+  color: hsl(150, 100%, 66%);
+}
